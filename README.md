@@ -4,9 +4,10 @@ This a CodeinPlace final project! It works and built with linux! It's a screen r
 ## Demo: [[Video Here]](https://www.youtube.com/watch?v=NCOx3nrApBU)
 
 ## Instalation Instructions:
-1. Go to the latest release!
-2. Download the Source Code
-3. Run gui.py
+1. Click the bright green code button
+2. Download the zip
+3. Extract it
+4. Run gui.py
 
 ## Converting
 1. Choose a your Recording avi file
